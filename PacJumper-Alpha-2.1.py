@@ -6,7 +6,7 @@ import os
 from PIL import Image
 
 # Paths
-ASSETS_DIR = 'C:/programming/python/games/the_pacjumper-code/game1_pygame/all_assets'
+ASSETS_DIR = './PacJumper-2.1-2022/all_assets'
 
 # if we want to load file we need to use: (os.path.join(ASSETS_DIR, 'the file'))
 
