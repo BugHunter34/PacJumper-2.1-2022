@@ -6,7 +6,7 @@ import os
 from PIL import Image
 
 # Paths
-ASSETS_DIR = './PacJumper-2.1-2022/all_assets'
+ASSETS_DIR = './all_assets'
 
 # if we want to load file we need to use: (os.path.join(ASSETS_DIR, 'the file'))
 
@@ -274,3 +274,4 @@ while True:
     pygame.display.update()
     clock.tick(GAME_SPEED)
 #winner_score
+
